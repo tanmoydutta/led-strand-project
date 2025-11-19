@@ -1,6 +1,8 @@
 # Autonoe
 An RGB and Neopixel LED controller board powered by ESP32-C3
 
+![alt text](https://github.com/tanmoydutta/led-strand-project//blob/main/images/AutonoeGingerBread3.png?raw=true)
+
 The module has option for unified 5V supply for LEDs and the MCU LDO and can provide support for higher voltages via the dedicated barrel jack socket. Separate 5V power then can be supplied via the USB-C connector -
 ![alt text](https://github.com/tanmoydutta/led-strand-project//blob/main/images/module.jpg?raw=true)
 
