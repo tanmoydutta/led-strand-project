@@ -12,4 +12,12 @@ A small solder bridge unifies the circuit power for 5V power operations and for 
 Dual LED interface for RGB and Addressable LEDs - 
 ![alt text](https://github.com/tanmoydutta/led-strand-project//blob/main/images/addressable.jpg?raw=true)
 
+This is an OSHWA certified hardware - 
+<p align="center">
+  <a href="https://certification.oshwa.org/nl000036.html">
+    <img src="/images/certification-mark-NL000036-wide.png?raw=true" alt="OSHWA" width="350" title="OSHWA Certification">
+  </a>
+</p>
+
+
 ![alt text](https://github.com/tanmoydutta/led-strand-project//blob/main/images/oshw_license.png?raw=true)
